@@ -74,23 +74,6 @@ I learn by building real businesses. Here are two platforms I designed, coded, a
 
 ---
 
-### 📊 GitHub Analytics
-
-*(Stats are optimized to bypass cache limits and load flawlessly)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ephremageru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&cache_seconds=86400" width="48%" alt="Ephrem's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephremageru&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=ec4899&stroke=0f172a&currStreakNum=ffffff" width="48%" alt="Ephrem's GitHub Streak" />
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephremageru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&cache_seconds=86400" width="60%" alt="Top Languages" />
-</p>
-
----
-
 <div align="center">
   <h3>Let's Work Together</h3>
   <p>Turning ideas into reliable, user-centered web systems through clean architecture and thoughtful design.</p>
