@@ -11,7 +11,7 @@
   <h1>Hi, I'm Ephrem Ageru 👋</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Frontend+Specialist+%26+Full-Stack+Developer;Building+clean+and+interactive+web+experiences;UI-focused+development+with+solid+backend+logic;PHP+%7C+Python+%7C+MySQL+%7C+React;Based+in+Kyrenia%2C+Cyprus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Frontend+Specialist+%26+Full-Stack+Developer;Building+clean+and+interactive+web+experiences;UI-focused+development+with+solid+backend+logic;PHP+%7C+Python+%7C+MySQL+%7C+JavaScript+%7C+React;Based+in+Kyrenia%2C+Cyprus" />
   </p>
 
   <p>
@@ -27,7 +27,7 @@
 
 I’m **Ephrem Ageru**, a **Software Engineering student at Girne American University (GAU)** and a frontend-focused full-stack web developer based in **Kyrenia (Girne), Cyprus**.
 
-I enjoy building modern, clean, and user-friendly web applications that solve real problems. My main focus is **frontend development and UI/UX**, but I also have solid backend experience using **PHP, Python, and MySQL** to build secure, scalable systems and dynamic data platforms.
+I enjoy building modern, clean, and user-friendly web applications that solve real problems. My main focus is **frontend development and UI/UX**, but I also have solid backend experience using **PHP, Python, and MySQL** to build secure, scalable systems and automation tools.
 
 I believe great software should be **simple, fast, secure, and easy to maintain**.
 
@@ -37,8 +37,7 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 
 - 🎨 Frontend Development (UI/UX & Responsive Design)
 - ⚡ JavaScript & Modern Interfaces
-- 🔧 Backend Development & Automation (PHP, Python)
-- 🗄️ Database Design & Optimization (MySQL)
+- 🔧 Backend Development & Automation (PHP, Python, MySQL)
 - 🔒 Authentication & Secure Systems
 - 📊 Admin Dashboards & CMS
 - 🚀 Deployment with cPanel
@@ -54,12 +53,12 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 - Tailwind CSS, Bootstrap
 - Responsive & Mobile-First Design
 
-### Backend
+### Backend & Automation
 - PHP
-- Python
+- Python (Telethon, AsyncIO, Flask)
 - MySQL
 - Secure authentication systems
-- RESTful API Integration
+- Database design & optimization
 
 ### Tools
 - Git & GitHub
@@ -74,60 +73,63 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 
 ## 🚀 Selected Projects
 
-### 📰 TrendStorm – Dynamic News & Data Hub
-A comprehensive, real-time information platform delivering the latest general news, live gas prices, and football updates all in one centralized hub.
+### 🌐 Web Applications
 
+#### 📰 TrendStorm – Dynamic News & Data Hub
+A comprehensive platform delivering real-time general news, live gas prices, and the latest football updates.
 **Key Features**
-- Live aggregated general news feeds
-- Real-time gas price tracking and displays
-- Dedicated football scores and sports updates
-- Fast, data-driven, and highly responsive UI
-
+- Live aggregated news feeds
+- Real-time gas price tracking and display
+- Dedicated football news and scores section
 🔗 **Live:** https://trendstorm.today  
-🛠️ **Tech:** PHP, Python, MySQL, HTML, CSS, JavaScript
+🛠️ **Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
----
-
-### 🛒 TRNC Rent Shop – E-Commerce Platform
-An integrated e-commerce extension for the TRNC Rent ecosystem, designed to provide users with a seamless, secure online shopping experience.
-
+#### 🛒 TRNC Rent Shop – E-Commerce Platform
+An online shopping extension for the TRNC Rent ecosystem, providing a seamless browsing and purchasing experience.
 **Key Features**
-- Dynamic product catalog and categorization
-- Intuitive shopping cart and checkout flow
-- Secure admin management for inventory
-- Mobile-optimized product galleries
-
+- Dynamic product catalog
+- Intuitive shopping cart system
+- Secure checkout and admin management
 🔗 **Live:** https://shop.trncrent.com  
 🛠️ **Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
----
-
-### 🏠 TRNC Rent – Property Rental Platform
+#### 🏠 TRNC Rent – Property Rental Platform
 A professional property rental website built for Northern Cyprus.  
 Designed to manage apartments, houses, and rental services with a clean user interface and a secure admin dashboard.
-
 **Key Features**
-- Dynamic property listings
-- Image galleries
+- Dynamic property listings & Image galleries
 - Secure contact forms
 - Custom PHP admin panel
-
 🔗 **Live:** https://trncrent.com  
 🛠️ **Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
----
-
-### 🎓 ScholarshipHub – Scholarship Management Platform
+#### 🎓 ScholarshipHub – Scholarship Management Platform
 A dynamic scholarship listing platform helping students find local and international opportunities easily.
-
 **Key Features**
 - Admin dashboard
 - Category & deadline management
-- Featured scholarships
 - Optimized database structure
-
 🔗 **Live:** https://scholarshiphub.website  
 🛠️ **Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🤖 Open Source & Python Automation
+
+#### 🌉 Telegram to Facebook Forwarder
+A production-ready, asynchronous middleware bridge that automatically scrapes media and text from targeted Telegram channels, groups them into albums, and seamlessly cross-posts them to Facebook Pages.
+🔗 **Repo:** [telegramtofacebookforwarder](https://github.com/ephremageru/telegramtofacebookforwarder)  
+🛠️ **Tech:** Python
+
+#### 📩 Telegram Join Request Acceptor
+An automated bot system designed to manage massive channel onboarding. It instantly approves join requests, tracks user acquisition in a local database, and features a rate-limit-protected broadcast CRM engine.
+🔗 **Repo:** [telegramjoinrequestacceptor](https://github.com/ephremageru/telegramjoinrequestacceptor)  
+🛠️ **Tech:** Python 
+
+#### 🔄 Telegram Forwarder Bot
+A universal asynchronous engine designed to forward heavy media files, documents, and text. Features historical bulk-copying, intelligent rate-limit handling, and regex-powered content filtering to strip unwanted promotional links.
+🔗 **Repo:** [Telegramforwarderbot](https://github.com/ephremageru/Telegramforwarderbot)  
+🛠️ **Tech:** Python
 
 ---
 
