@@ -1,9 +1,7 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Ephrem%20Ageru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" />
 </p>
 
-<!-- ===================== PROFILE ===================== -->
 <div align="center">
   <a href="https://ephremageru.site">
     <img src="https://github.com/ephremageru.png" width="180" height="180" alt="Ephrem Ageru"
@@ -13,7 +11,7 @@
   <h1>Hi, I'm Ephrem Ageru 👋</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Frontend+Specialist+%26+Full-Stack+Developer;Building+clean+and+interactive+web+experiences;UI-focused+development+with+solid+backend+logic;PHP+%7C+MySQL+%7C+JavaScript+%7C+React;Based+in+Kyrenia%2C+Cyprus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Frontend+Specialist+%26+Full-Stack+Developer;Building+clean+and+interactive+web+experiences;UI-focused+development+with+solid+backend+logic;PHP+%7C+Python+%7C+MySQL+%7C+React;Based+in+Kyrenia%2C+Cyprus" />
   </p>
 
   <p>
@@ -29,7 +27,7 @@
 
 I’m **Ephrem Ageru**, a **Software Engineering student at Girne American University (GAU)** and a frontend-focused full-stack web developer based in **Kyrenia (Girne), Cyprus**.
 
-I enjoy building modern, clean, and user-friendly web applications that solve real problems. My main focus is **frontend development and UI/UX**, but I also have solid backend experience using **PHP and MySQL** to build secure, scalable systems.
+I enjoy building modern, clean, and user-friendly web applications that solve real problems. My main focus is **frontend development and UI/UX**, but I also have solid backend experience using **PHP, Python, and MySQL** to build secure, scalable systems and dynamic data platforms.
 
 I believe great software should be **simple, fast, secure, and easy to maintain**.
 
@@ -39,7 +37,8 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 
 - 🎨 Frontend Development (UI/UX & Responsive Design)
 - ⚡ JavaScript & Modern Interfaces
-- 🔧 Backend Development (PHP & MySQL)
+- 🔧 Backend Development & Automation (PHP, Python)
+- 🗄️ Database Design & Optimization (MySQL)
 - 🔒 Authentication & Secure Systems
 - 📊 Admin Dashboards & CMS
 - 🚀 Deployment with cPanel
@@ -57,9 +56,10 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 
 ### Backend
 - PHP
+- Python
 - MySQL
 - Secure authentication systems
-- Database design & optimization
+- RESTful API Integration
 
 ### Tools
 - Git & GitHub
@@ -67,12 +67,40 @@ I believe great software should be **simple, fast, secure, and easy to maintain*
 - Clean architecture principles
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,bootstrap,tailwind,git,github,linux&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,bootstrap,tailwind,git,github,linux&theme=dark&perline=12" />
 </div>
 
 ---
 
 ## 🚀 Selected Projects
+
+### 📰 TrendStorm – Dynamic News & Data Hub
+A comprehensive, real-time information platform delivering the latest general news, live gas prices, and football updates all in one centralized hub.
+
+**Key Features**
+- Live aggregated general news feeds
+- Real-time gas price tracking and displays
+- Dedicated football scores and sports updates
+- Fast, data-driven, and highly responsive UI
+
+🔗 **Live:** https://trendstorm.today  
+🛠️ **Tech:** PHP, Python, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 🛒 TRNC Rent Shop – E-Commerce Platform
+An integrated e-commerce extension for the TRNC Rent ecosystem, designed to provide users with a seamless, secure online shopping experience.
+
+**Key Features**
+- Dynamic product catalog and categorization
+- Intuitive shopping cart and checkout flow
+- Secure admin management for inventory
+- Mobile-optimized product galleries
+
+🔗 **Live:** https://shop.trncrent.com  
+🛠️ **Tech:** PHP, MySQL, HTML, CSS, JavaScript
+
+---
 
 ### 🏠 TRNC Rent – Property Rental Platform
 A professional property rental website built for Northern Cyprus.  
@@ -105,8 +133,7 @@ A dynamic scholarship listing platform helping students find local and internati
 
 ## 🎯 Work Philosophy
 
-> **“Good software is built on clarity, security, and simplicity.”**  
-> Every feature should have a purpose.
+> **“Good software is built on clarity, security, and simplicity.”** > Every feature should have a purpose.
 
 ---
 
