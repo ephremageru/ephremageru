@@ -16,9 +16,9 @@ I build and run production websites end to end: database design, PHP back ends, 
 | **[KibrisTech](https://kibristech.com)** | Trilingual (TR/EN/EL) studio website with a PHP quote back end and product demos; CI with PHP 8.2/8.4 tests and secret scanning | Astro, TypeScript, Tailwind CSS, PHP |
 | **[ScholarshipHub](https://scholarshiphub.website)** | Scholarship and opportunity listings, updated daily, with an MVC back end and an automated posting bot | PHP (MVC), MySQL |
 | **[TRNC Rent Shop](https://shop.trncrent.com)** | Local deals storefront with catalogue, cart and admin | PHP (MVC), MySQL |
-| **[Telegram automation](https://github.com/ephremageru/telegramtofacebookforwarder)** | Open-source async tools: Telegram → Facebook cross-posting, join-request management, media forwarding | Python, Telethon, Graph API |
+| **Telegram automation tools** | Async Python services for channel operations: Telegram → Facebook cross-posting, join-request management, media forwarding | Python, Telethon, Graph API |
 
-The source of the commercial projects is private. Overviews and screenshots are on my [portfolio](https://ephremageru.site).
+Project source code is kept private. Overviews, features and screenshots are on my [portfolio](https://ephremageru.site).
 
 ### Skills
 
