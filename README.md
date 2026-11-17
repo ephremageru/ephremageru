@@ -4,7 +4,7 @@
 
 I build and run production websites end to end: database design, PHP back ends, responsive front ends, deployment and maintenance on Linux, cPanel and Cloudflare. Several of my sites are live and used daily. I'm open to remote freelance, contract and junior roles.
 
-[Portfolio](https://ephremageru.site) · [Email](mailto:hello@ephremageru.site) · [LinkedIn](https://linkedin.com/in/ephremageru)
+[Portfolio](https://ephremageru.site) · [Email](mailto:hello@ephremageru.site) · [LinkedIn](https://www.linkedin.com/in/ephrem-mandefro)
 
 ---
 
